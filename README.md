@@ -39,5 +39,5 @@ Publishing artifact to Nexus snapshot and release repo using maven.
 
 mvn sonar:sonar \
   -Dsonar.projectKey=JavaWebApp \
-  -Dsonar.host.url=http://44.202.52.11:9000 \
-  -Dsonar.login=d88610249be66b336e7d1ce2ffdfc98c8cd494b5
+  -Dsonar.host.url=http://34.227.25.207:9000 \
+  -Dsonar.login=8b4454279b8efb9a89063260aa03ceb97c3dea56
